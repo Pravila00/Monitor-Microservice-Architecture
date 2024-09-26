@@ -19,8 +19,7 @@ Please be sure you have all these dependencies installed before running the fram
 - Docker-Compose
 
 ### Build
-In order to build the framework you can use the script (Name of script)
-
+In order to build the framework you can use the script
 ## Monitor Kubernetes clusters
 This version of the framework consist in the next components:
 - Kube-Prometheus-Stack
